@@ -1,0 +1,10 @@
+{
+  "name": "Audi - Centre de contrôle domestique",
+  "description": "Système de gestion du foyer haute fidélité optimisé pour tablettes, intégrant l'IA Gemini pour une organisation domestique fluide et un contrôle visuel élégant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "short_name": "Audi",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc"
+}
